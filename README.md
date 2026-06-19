@@ -111,49 +111,6 @@ I'm a **Fullstack & Blockchain Engineer** with hands-on experience building **pr
 
 ---
 
-## 🏗️ Professional Experience
-
-### **Blockchain Developer – Birdeye** `JUN 2024 - DEC 2024`
-- Engineered high-throughput Solana on-chain data pipelines to index real-time token prices, trading volumes, liquidity depths, and wallet activity at scale using the Birdeye API and Solana RPC infrastructure.
-- Built the backend architecture for a real-time whale tracking system that monitored large wallet movements across the Solana ecosystem, powering copy-trading signals consumed by tens of thousands of daily active users.
-- Developed and maintained smart contract integrations and GraphQL APIs that exposed aggregated blockchain analytics data to multiple product surfaces, including trading dashboards and mobile apps.
-- Optimised on-chain data ingestion workflows to sustain millions of events per day while maintaining sub-second end-to-end latency, leveraging Rust for performance-critical processing paths.
-- Contributed to an internal Solana program interaction SDK that standardised how the engineering team interfaces with on-chain programs, reducing boilerplate and cutting average integration time by roughly 50%.
-- **Tech:** Solana, Rust, TypeScript, GraphQL, Birdeye API, Node.js
-
-### **Developer Advocate – Hedera** `SEP 2023 - MAY 2024`
-- Drove developer adoption of the Hedera Hashgraph network by producing in-depth tutorials, comprehensive SDK documentation, and end-to-end sample applications covering HTS (Hedera Token Service), HCS (Hedera Consensus Service), and Smart Contract Service.
-- Led technical workshops, hackathons, and speaker sessions across Africa and internationally — both in-person and online — successfully onboarding and mentoring over 500 developers into the Hedera ecosystem.
-- Built reference dApps and open-source repositories that demonstrated real-world use cases, becoming some of the most-starred projects in Hedera's community GitHub organisation.
-- Served as a direct feedback channel between the developer community and Hedera's core engineering team, translating pain points and feature requests into actionable product improvements that shipped in subsequent SDK releases.
-- Created technical blog posts, explainer videos, and social content that grew the developer community presence and increased qualified signups to Hedera's portal by a measurable margin over the advocacy period.
-- **Tech:** Hedera SDK, Hedera Token Service (HTS), Hedera Consensus Service (HCS), TypeScript, Smart Contracts, Developer Relations
-
-### **Junior Smart Contract Engineer – Nethermind** `FEB 2023 - AUG 2023`
-- Designed and delivered production-grade Solidity smart contracts for DeFi clients, including ERC-20 token standards, ERC-721 NFT collections, multi-sig wallets, and DAO governance systems deployed on Ethereum mainnet.
-- Participated in security audits of client smart contracts, identifying and remediating critical vulnerabilities such as reentrancy attacks, integer overflows, and improper access control before mainnet deployment.
-- Wrote comprehensive test suites using Foundry (forge) and Hardhat, consistently achieving above 95% code coverage on all delivered contracts and reducing post-deployment bugs significantly.
-- Led gas optimisation initiatives on key protocol functions — refactoring storage layouts, batching operations, and leveraging assembly where appropriate — cutting average transaction costs by up to 30%.
-- Contributed to internal tooling for automated contract deployment pipelines and ABI generation across Ethereum mainnet, Goerli, and Sepolia testnets, streamlining the release workflow.
-- **Tech:** Solidity, Foundry, Hardhat, Ethereum, TypeScript, Smart Contract Auditing
-
-### **Junior Blockchain Developer – Bitnob** `JAN 2022 - DEC 2022`
-- Integrated Bitcoin and Lightning Network payment APIs into Bitnob's mobile and web applications, enabling instant, low-fee cross-border remittances for thousands of users across Africa.
-- Developed and maintained backend microservices for non-custodial cryptocurrency wallet management, handling private key derivation, transaction signing, and balance reconciliation using Node.js and PostgreSQL.
-- Collaborated with the smart contract team to prototype on-chain settlement features, writing and testing Solidity contracts on Ethereum testnets using Hardhat and Mocha.
-- Authored internal developer documentation and runbooks for the blockchain integration layer, reducing onboarding time for new engineers by over 40%.
-- Researched and evaluated emerging Layer 2 scaling solutions — including Optimism and Arbitrum — presenting findings and feasibility reports to engineering leadership.
-- **Tech:** Node.js, TypeScript, Bitcoin Lightning Network, Hardhat, Solidity, PostgreSQL
-
-### **Frontend Developer (Internship) – UrbanTechHub** `MAR 2023 - OCT 2023`
-- Built and maintained responsive web applications using React, Next.js, TypeScript, and Redux Toolkit, ensuring cross-browser compatibility.
-- Contributed to performance optimization efforts, helping maintain Lighthouse scores above 90%.
-- Collaborated with UX/UI designers to implement Figma prototypes and wireframes into functional components with high design accuracy.
-- Implemented accessibility best practices following WCAG guidelines during development.
-- **Tech:** TypeScript, React, Next.js, Tailwind CSS, Redux Toolkit
-
----
-
 ## 🤝 Open To
 
 - **Fullstack Web3 & Blockchain Roles** — Smart contract development, dApp architecture, on-chain systems
